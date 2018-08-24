@@ -1,5 +1,4 @@
-![Nextcloud](/images/nextcloud conf.jpg)
-Format: ![Nextcloud Conference](url)
+![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/nextcloud%20conf.jpeg)
 
 # :computer: Contributing To Nextcloud Introductory Workshop
 Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
