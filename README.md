@@ -1,3 +1,6 @@
+![Nextcloud](/images/nextcloud conf.jpg)
+Format: ![Nextcloud Conference](url)
+
 # :computer: Contributing To Nextcloud Introductory Workshop
 Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
 
