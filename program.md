@@ -20,21 +20,20 @@
 * Git with a github account
 * IDE /Text editor (Visual studio Code - open source)
 
-(Could have links for this already on a github page to give them easy access)
 
 |(3 mins  intro):	|	Setting up github account, git tools|
 | ------------- |:-------------:|
 
 | (20 mins): 	|	Start setting people’s machines up |
 | ------------- |:-------------:|
- (if they don’t have them already, get useful tools and github accounts etc (Would be good to have easy guides for each OS at hand for them.)
+ (if they don’t have them already, get useful tools and github accounts etc
  
 | (10 mins) 	|	Break |
 | ------------- |:-------------:|
 
 | (10 mins): 	|	Cloning a Repo to your machine and setting up your own branch |
 | ------------- |:-------------:|
-(explain process and let them do it at the same time as there is no projector - coaches should be on hand to help)
+(coaches on hand to help)
 
 (15 mins): 	|	Viewing your code in the Browser and Dev Tools |
 | ------------- |:-------------:|
@@ -64,4 +63,3 @@
 
 |(3 mins)	|	Conclusion and next steps |
 | ------------- |:-------------:|
-(again be good to have this somewhere for them to view as no projector.)
