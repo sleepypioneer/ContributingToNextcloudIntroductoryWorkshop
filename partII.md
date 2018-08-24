@@ -1,5 +1,5 @@
-# :computer: Contributing To Nextcloud Introductory Workshop 
 # Part II
+# :computer: Contributing To Nextcloud Introductory Workshop 
 
 Now you have the development set up and all the tools for contributing it's time to get the code and pick an issue to work on!
 
@@ -20,9 +20,8 @@ Now you have the development set up and all the tools for contributing it's time
 * Moving elements in code base and seeing them in browser
 * Changing styles in code base and seeing them in browser
 
-![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/images/blob/master/goodfiratissues.png)
-
 ## Picking your first issue
+![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png)
 
 * Labels
 * Things to consider when tackling an issue
@@ -33,4 +32,4 @@ https://github.com/nextcloud/contacts/issues/253
 
 We will now get in small groups and decide on issues to start on.
 
-[We will then talk next steps and extra resources.]()
+[We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
