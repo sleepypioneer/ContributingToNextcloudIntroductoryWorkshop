@@ -1,4 +1,4 @@
-![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/images/blob/master/nextcloud%20conf.jpeg)
+![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/nextcloud%20conf.jpeg)
 
 # :computer: Contributing To Nextcloud Introductory Workshop
 Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
@@ -85,4 +85,4 @@ https://docs.nextcloud.com/server/14/developer_manual/
 
 ***
 
-:tada: Now we take time to make sure you have everything set up and take a short break. Afterwards you can go to [part 2]() :tada:
+:tada: Now we take time to make sure you have everything set up and take a short break. Afterwards you can go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md)
