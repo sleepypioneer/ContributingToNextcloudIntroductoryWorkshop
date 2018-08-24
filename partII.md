@@ -1,4 +1,5 @@
-# :computer: Contributing To Nextcloud Introductory Workshop Part II
+# :computer: Contributing To Nextcloud Introductory Workshop 
+# Part II
 
 Now you have the development set up and all the tools for contributing it's time to get the code and pick an issue to work on!
 
