@@ -19,7 +19,7 @@ Now you have the development set up and all the tools for contributing it's time
 * Moving elements in code base and seeing them in browser
 * Changing styles in code base and seeing them in browser
 
-![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/goodfiratissues.png)
+![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/images/blob/master/goodfiratissues.png)
 
 ## Picking your first issue
 

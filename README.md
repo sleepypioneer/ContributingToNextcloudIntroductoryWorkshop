@@ -1,4 +1,4 @@
-![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/nextcloud%20conf.jpeg)
+![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/images/blob/master/nextcloud%20conf.jpeg)
 
 # :computer: Contributing To Nextcloud Introductory Workshop
 Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
@@ -42,10 +42,10 @@ https://nextcloud.com/contribute/
 # :memo: Running the Nextcloud development environment
 You'll need to set up your development environment to test and programme on the Nextcloud codebase, the following guides are to get you started depending on which OS you are using. We will take time to go through these guides with you as each set up can be a little different and challenging. (we've all been there at some point :wink: )
 
-* [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/NextcloudMacDevelopmentEnvironment.md)
+* [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/setupGuides/blob/master/NextcloudMacDevelopmentEnvironment.md)
 * [Linux (with VM)](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
 * Windows [with Docker](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
-          [or with a VM](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/NextcloudWindowsDevelopmentEnvironment.md)
+          [or with a VM](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/setupGuides/blob/master/NextcloudWindowsDevelopmentEnvironment.md)
 
 ***
 
