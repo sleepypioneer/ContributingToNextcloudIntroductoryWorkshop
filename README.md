@@ -54,12 +54,12 @@ You'll need to set up your development environment to test and programme on the 
 * [IDE /Text editor (Visual studio Code - open source)]()
 * [Nextcloud Docs]()
 
-### IRC Chat
+### :loudspeaker: IRC Chat
 
 https://about.riot.im/
 https://riot.im/app/#/room/#freenode_#nextcloud-dev:matrix.org
 
-### Github & Github Desktop
+### :octocat: Github & Github Desktop
 
 In order to contribute to the code base and checkout the latest versions you will need to make a free github account, you can so [here](https://github.com)
 
@@ -69,12 +69,12 @@ Commands to git can be done through the terminal on windows you will also need t
 
 Alternatively you can use the Github Desktop GUI which you can download [here](https://desktop.github.com/) *(we reccomend this for complete beginners to Git)*
 
-### IDE / Text Editor
+### :gem: IDE / Text Editor
 
 To work on the code base you will need a IDE or Text Editor. 
 Here you have complete choice and it is a personal preference which you find best to work with, however we can highly reccomend Visual Studio Code below are also some others you may like to try (they are all free)
 
-### Nextcloud Documentation
+### :blue_book: Nextcloud Documentation
 Nextcloud already has a vast amount of documentation for getting started, style guides and about how the code base is structured. You need to make sure you are working within these guidelines when you are fixing issues so it is very useful to keep them at hand!
 
 This also includes their code of conduct, if you encounter behaviour aimed at yourself or other that goes against this code do not be afraid to report it! https://docs.nextcloud.com/server/14/developer_manual/general/code-of-conduct.html
@@ -83,6 +83,4 @@ https://docs.nextcloud.com/server/14/developer_manual/
 
 ***
 
-### Picking your first Issue!
-
-
+:tada: Now we take time to make sure you have everything set up and take a short break. Afterwards you can go to [part 2]() :tada:
