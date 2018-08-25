@@ -159,7 +159,7 @@ Changes made to the code will appear in the right hand side of the Desktop clien
 
 You can create your own branch and publish it to the repo
 
-<img src=https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup45.PNG" alt="drawing" width="600"/>
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup45.PNG" alt="drawing" width="600"/>
 
 You can add a commit message and push your commit to the chosen branch.
 
