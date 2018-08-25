@@ -3,7 +3,7 @@
 
 ![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/nextcloud%20conf.jpeg)
 
-Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
+Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your pull request.
 
 This workshop is being run with support from [Open Source Diversity](https://opensourcediversity.org/#), a monthly Meetup group in Berlin that provides a friendly and safe environment for contributing to open source. 
 
@@ -12,7 +12,7 @@ We look forward to getting you started with contributing to Nextcloud Open Sourc
 ***
 
 # :cloud: Nextcloud :cloud:
-Nextcloud at it's core is a open source self hosted file sharing software but it also offers a lot more. With additional apps you can not only manage your data but interact with it in a collaborate and creative manner with upmost privacy & security!
+Nextcloud at it's core is a open source self hosted file sharing software but it also offers a lot more. With additional apps you can not only manage your data but interact with it in a collaborative and creative manner with upmost privacy & security!
 
 You can learn more about Nextcloud including how to install it and where to get self hosting on their website : https://nextcloud.com/
 
@@ -45,7 +45,7 @@ For more details about contirbuting to Nextcloud visit : https://nextcloud.com/c
 
 # :memo: Running the Nextcloud development environment
 
-You'll need to set up your development environment to test and programme on the Nextcloud codebase, the following guides are to get you started depending on which OS you are using. For Mac and Linux you can run this natively on your machine, for Windows you will have to install a Virtual Machine or for all three you can use the Docker setup we have prepared to run the environment in a isolated container.
+You'll need to set up your development environment to test and program on the Nextcloud codebase. The following guides are to get you started depending on which OS you are using. For Mac and Linux you can run this natively on your machine, for Windows you will have to install a Virtual Machine or for all three you can use the Docker setup we have prepared to run the environment in a isolated container.
 
 We will take time to go through these guides with you as each set up can be a little different and challenging. (we've all been there at some point :wink: )
 
@@ -94,7 +94,7 @@ Alternatively you can use the Github Desktop GUI which you can download [here](h
 ### :gem: IDE / Text Editor
 
 To work on the code base you will need a IDE or Text Editor. 
-Here you have complete choice and it is a personal preference which you find best to work with, however we can highly reccomend Visual Studio Code below are also some others you may like to try (they are all free)
+Here the choice is completely yours and it is a personal preference which you find best to work with. However we can highly recommend  Visual Studio Code below are also some others you may like to try (they are all free)
 
 <a name="docs"></a>
 ### :blue_book: Nextcloud Documentation
@@ -107,4 +107,4 @@ This also includes their code of conduct, if you encounter behaviour aimed at yo
 ***
 [Back to Top](#top) 
 
-:hourglass: Now we will take time to make sure you have everything set up and take a short break. Afterwards we will go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md)
+:apple: Now we will take time to make sure you have everything set up and take a short break. Afterwards, we will go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md)
