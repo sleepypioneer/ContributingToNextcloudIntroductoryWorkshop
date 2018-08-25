@@ -13,8 +13,9 @@ To start working on an issue or a feature for a repository (nextcloud server or 
 
 Usually you don't have permissions to a repository that does not belong to you. To allow you to edit the code, you can *fork* the repository to your own account. That means you can clone the project and start coding on your account.
 
-![forkbutton](https://user-images.githubusercontent.com/14975046/44617083-23bfd700-a85d-11e8-9018-4abd0bda0331.png)
+![forkbutton](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/forkbutton.png)
 
+After that just make your changes directly to your own forked repository and you will be able to create a pull request to the original project afterwise.
 
 ## Creating your own Branch
 
@@ -26,7 +27,6 @@ and then create a new branch based on the one we just selected
 
 `git checkout -B your-branch-name`
 
-## Running your Nextcloud version
 
 # Viewing your code in the Browser with Dev Tools
 
@@ -37,7 +37,7 @@ and then create a new branch based on the one we just selected
 * Moving elements in code base and seeing them in browser
 * Changing styles in code base and seeing them in browser
 
-## Picking your first issue
+# Picking your first issue
 ![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png)
 
 * Labels
