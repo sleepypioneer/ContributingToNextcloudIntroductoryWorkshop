@@ -37,9 +37,9 @@ This will open the Dev Tools (for this demo we are using [Chrome](https://www.go
 https://github.com/nextcloud/contacts/issues/106
 https://github.com/nextcloud/contacts/issues/253
 
-We will now get in small groups and decide on issues to start on.
 
 ***
 [Back to Top](#top) 
 
-[We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
+We will now get in small groups and decide on issues to start on. [We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
+
