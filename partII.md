@@ -1,34 +1,19 @@
 # Part II
 # :computer: Contributing To Nextcloud Introductory Workshop 
 
-Now you have the development set up and all the tools for contributing it's time to get the code and pick an issue to work on!
-
-## Cloning a Repo to your machine
-
-To start working on an issue or a feature for a repository (nextcloud server or one of the app for example) you will need to download (clone) the project to your local setup.
-
-`git clone https://github.com/nextcloud/server`
-
-## Forking a Repo
-
-Usually you don't have permissions to a repository that does not belong to you. To allow you to edit the code, you can *fork* the repository to your own account. That means you can clone the project and start coding on your account.
-
-![forkbutton](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/forkbutton.png)
-
-After that just make your changes directly to your own forked repository and you will be able to create a pull request to the original project afterwise.
-
-## Creating your own Branch
-
-On your local clone, you will need to create a new branch to start adding your modifications. Just checkout the branch you want to edit (usually master)
-
-`git checkout master`
-
-and then create a new branch based on the one we just selected
-
-`git checkout -B your-branch-name`
-
+Now you have the development set up and the code it's time to pick an issue to work on!
 
 # Viewing your code in the Browser with Dev Tools
+
+In the browser open 
+`localhost:8080/`
+
+You can now right-click anywhere on the screen and click inspect. 
+This will open the Dev Tools (for this demo we are using [Chrome]() but other browsers also offer this.
+
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/meetup.svg" alt="drawing" width="100"/>
+
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/meetup.svg" alt="drawing" width="100"/>
 
 * Viewing elements
 * Moving elements in Dev tools
