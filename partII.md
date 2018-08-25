@@ -3,11 +3,28 @@
 
 Now you have the development set up and all the tools for contributing it's time to get the code and pick an issue to work on!
 
-## Cloning a Repo to your machine 
+## Cloning a Repo to your machine
+
+To start working on an issue or a feature for a repository (nextcloud server or one of the app for example) you will need to download (clone) the project to your local setup.
+
+`git clone https://github.com/nextcloud/server`
 
 ## Forking a Repo
 
+Usually you don't have permissions to a repository that does not belong to you. To allow you to edit the code, you can *fork* the repository to your own account. That means you can clone the project and start coding on your account.
+
+![forkbutton](https://user-images.githubusercontent.com/14975046/44617083-23bfd700-a85d-11e8-9018-4abd0bda0331.png)
+
+
 ## Creating your own Branch
+
+On your local clone, you will need to create a new branch to start adding your modifications. Just checkout the branch you want to edit (usually master)
+
+`git checkout master`
+
+and then create a new branch based on the one we just selected
+
+`git checkout -B your-branch-name`
 
 ## Running your Nextcloud version
 
