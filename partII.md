@@ -9,12 +9,12 @@ Now you have the development set up and the code it's time to pick an issue to w
 In the browser open 
 `localhost:8080/`
 
-<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/editingonChrome.PNG" width="300"/>
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/editingonChrome.PNG" width="600"/>
 
 You can now right-click anywhere on the screen and click inspect. 
 This will open the Dev Tools (for this demo we are using [Chrome](https://www.google.com/chrome/?brand=CHBF&ds_kid=43700010220923594&gclid=COHwovKYiN0CFQz7Gwod0UAIQA&gclsrc=ds&dclid=CKaRqfKYiN0CFUmWdwodvFcMyg) but other browsers also offer this.
 
-<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/editingonChrome2.PNG" alt="drawing" width="100"/>
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/editingonChrome2.PNG" alt="drawing" width="600"/>
 
 * Viewing elements
 * Moving elements in Dev tools
@@ -27,7 +27,8 @@ This will open the Dev Tools (for this demo we are using [Chrome](https://www.go
 [Back to Top](#top) 
 
 # Picking your first issue
-![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png)
+
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png" alt="drawing" width="400"/>
 
 * Labels
 * Things to consider when tackling an issue
@@ -38,6 +39,7 @@ https://github.com/nextcloud/contacts/issues/253
 
 We will now get in small groups and decide on issues to start on.
 
+***
 [Back to Top](#top) 
 
 [We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
