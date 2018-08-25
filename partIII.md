@@ -1,10 +1,14 @@
+<a name="top"></a>
+# :computer: Contributing To Nextcloud Introductory Workshop
+# Part III
+
 :tada: Congratulations on working on your first contribution to Nextcloud! :tada:
 
 If you enjoyed this session and would like to continue contributing there are monthly meetups from both [Nextcloud](https://www.meetup.com/nextcloud-berlin/) and [Open Source](https://www.meetup.com/opensourcediversity/) Diversity where you are welcome to join, continue working on your pull request ask questions and meet other contributors :woman: :man:
 
-We wish you much success with your onwards journey contributing to Open Source :mortar_board:
-
 <img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/meetup.svg" alt="drawing" width="100"/>
+
+We wish you much success with your onwards journey contributing to Open Source :mortar_board:
 
 ***
 
@@ -24,6 +28,7 @@ https://opensourcediversity.org
 
 
 ***
+[Back to Top](#top)
 
 Huge thanks to all those involved in putting this workshop together!
 
