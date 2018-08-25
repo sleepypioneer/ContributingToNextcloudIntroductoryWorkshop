@@ -146,20 +146,21 @@ and then create a new branch based on the one we just selected
 ## :octocat: Through the Github Desktop client
 
 `Go to clone `
-<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup1.PNG" alt="drawing" width="600"/>
-
-<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup2.PNG" alt="drawing" width="600"/>
-
+***
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup1.PNG" alt="drawing" width="400"/>
+***
+<img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup2.PNG" alt="drawing" width="400"/>
+****
 `Respositories > Open in visual studio code`
 
 Changes made to the code will appear in the right hand side of the Desktop client
 
 <img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup3.PNG"/>
-
+***
 You can create your own branch and publish it to the repo
 
 <img src=https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup45.PNG" alt="drawing" width="600"/>
-
+***
 You can add a commit message and push your commit to the chosen branch.
 
 <img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/GitHubDesktopSetup6.PNG" alt="drawing" width="600"/>
