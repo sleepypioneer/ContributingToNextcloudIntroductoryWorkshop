@@ -1,5 +1,6 @@
-# Part II
+<a name="top"></a>
 # :computer: Contributing To Nextcloud Introductory Workshop 
+# Part II
 
 Now you have the development set up and the code it's time to pick an issue to work on!
 
@@ -22,6 +23,9 @@ This will open the Dev Tools (for this demo we are using [Chrome](https://www.go
 * Moving elements in code base and seeing them in browser
 * Changing styles in code base and seeing them in browser
 
+***
+[Back to Top](#top) 
+
 # Picking your first issue
 ![Good first Issues](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png)
 
@@ -33,5 +37,7 @@ https://github.com/nextcloud/contacts/issues/106
 https://github.com/nextcloud/contacts/issues/253
 
 We will now get in small groups and decide on issues to start on.
+
+[Back to Top](#top) 
 
 [We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
