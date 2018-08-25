@@ -1,7 +1,7 @@
 ![Nextcloud](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/images/blob/master/nextcloud%20conf.jpeg)
 
 # :computer: Contributing To Nextcloud Introductory Workshop
-Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first issue.
+Interested in contributing to Nextcloud but not sure how? In this introductory workshop we will guide you in getting your development environment set up and starting your first pull request.
 
 This workshop is being run with support from Open Source Diversity, a monthly Meetup in Berlin that provides a friendly and safe environment for contributing to open source.
 
@@ -10,7 +10,7 @@ We look forward to getting you started with contributing to Nextcloud Open Sourc
 ***
 
 # :cloud: Nextcloud :cloud:
-Nextcloud at it's core is a open source self hosted file sharing software but it also offers a lot more. With additional apps you can not only manage your data but interact with it in a collaborate and creative manner with upmost privacy!
+Nextcloud at it's core is an open source self hosted file sharing software but it also offers a lot more. With additional apps you can not only manage your data but interact with it in a collaborative and creative manner with upmost privacy!
 
 https://nextcloud.com/
 
@@ -40,7 +40,7 @@ https://nextcloud.com/contribute/
 ***
 
 # :memo: Running the Nextcloud development environment
-You'll need to set up your development environment to test and programme on the Nextcloud codebase, the following guides are to get you started depending on which OS you are using. We will take time to go through these guides with you as each set up can be a little different and challenging. (we've all been there at some point :wink: )
+You'll need to set up your development environment to test and program on the Nextcloud codebase. The following guides are to get you started depending on which OS you are using. We will take time to go through these guides with you as each set up can be a little different and challenging. (we've all been there at some point :wink: )
 
 * [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/setupGuides/blob/master/NextcloudMacDevelopmentEnvironment.md)
 * [Linux (with VM)](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
@@ -74,7 +74,7 @@ Alternatively you can use the Github Desktop GUI which you can download [here](h
 ### :gem: IDE / Text Editor
 
 To work on the code base you will need a IDE or Text Editor. 
-Here you have complete choice and it is a personal preference which you find best to work with, however we can highly reccomend Visual Studio Code below are also some others you may like to try (they are all free)
+Here you have a complete choice and it is a personal preference which you find best to work with. However we can highly recommend Visual Studio Code below are also some others you may like to try (they are all free)
 
 ### :blue_book: Nextcloud Documentation
 Nextcloud already has a vast amount of documentation for getting started, style guides and about how the code base is structured. You need to make sure you are working within these guidelines when you are fixing issues so it is very useful to keep them at hand!
@@ -85,4 +85,4 @@ https://docs.nextcloud.com/server/14/developer_manual/
 
 ***
 
-:tada: Now we take time to make sure you have everything set up and take a short break. Afterwards you can go to [part 2]() :tada:
+:tada: Now we take time to make sure you have everything set up and take a short break. Afterwards, you can go to [part 2]() :tada:
