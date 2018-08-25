@@ -43,23 +43,7 @@ For more details about contirbuting to Nextcloud visit : https://nextcloud.com/c
 ***
 [Back to Top](#top) 
 
-# :memo: Running the Nextcloud development environment
-
-You'll need to set up your development environment to test and program on the Nextcloud codebase. The following guides are to get you started depending on which OS you are using. For Mac and Linux you can run this natively on your machine, for Windows you will have to install a Virtual Machine or for all three you can use the Docker setup we have prepared to run the environment in a isolated container.
-
-We will take time to go through these guides with you as each set up can be a little different and challenging. (we've all been there at some point :wink: )
-
-* [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/setupGuides/blob/master/NextcloudMacDevelopmentEnvironment.md)
-* [Linux (with VM)](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
-* Windows [with Docker](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
-          [or with a VM](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/setupGuides/blob/master/NextcloudWindowsDevelopmentEnvironment.md)
-          
-Big thanks to @jancborchardt & @David-Development for their support in creating these documents
-
-***
-[Back to Top](#top) 
-
-# :pen: Other useful Tools
+# :pen: Tools you will need
 
 You will also need a few other useful tools to contribute which we will cover here.
 
@@ -106,5 +90,59 @@ This also includes their code of conduct, if you encounter behaviour aimed at yo
 
 ***
 [Back to Top](#top) 
+
+# :memo: Running the Nextcloud development environment
+
+You'll need to set up your development environment to test and program on the Nextcloud codebase. The following guides are to get you started depending on which OS you are using. For Mac and Linux you can run this natively on your machine, for Windows you will have to install a Virtual Machine or for all three you can use the Docker setup we have prepared to run the environment in a isolated container.
+
+For this workshop we reccomend working with Docker so please follow the official set up guide to install Docker on your machine.
+
+:whale: https://www.docker.com/get-started :whale:
+
+We will take time to go through these guides with you shortly as each set up can be a little different and challenging. (we've all been there at some point :wink: )
+
+* [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/jessica/setupGuides/NextcloudMacDevelopmentEnvironment.md)
+* [Linux (with Docker)](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
+* Windows [with Docker](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
+          [or with a VM](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/jessica/setupGuides/NextcloudWindowsDevelopmentEnvironment.md)
+          
+Big thanks to @jancborchardt & @David-Development for their support in creating these documents
+
+***
+[Back to Top](#top) 
+
+
+If you didn't follow the Docker guide you will still need to get the code, here is a quick guide to doing so with Github either in the Terminal or through github Desktop
+
+## :1234: Through the Terminal
+
+### Cloning a Repo to your machine
+
+To start working on an issue or a feature for a repository (nextcloud server or one of the app for example) you will need to download (clone) the project to your local setup.
+
+`git clone https://github.com/nextcloud/server`
+
+### Forking a Repo
+
+Usually you don't have permissions to a repository that does not belong to you. To allow you to edit the code, you can *fork* the repository to your own account. That means you can clone the project and start coding on your account.
+
+![forkbutton](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/forkbutton.png)
+
+After that just make your changes directly to your own forked repository and you will be able to create a pull request to the original project afterwise.
+
+### Creating your own Branch
+
+On your local clone, you will need to create a new branch to start adding your modifications. Just checkout the branch you want to edit (usually master)
+
+`git checkout master`
+
+and then create a new branch based on the one we just selected
+
+`git checkout -B your-branch-name`
+
+***
+[Back to Top](#top) 
+
+## :1234: Through the Github Desktop client
 
 :apple: Now we will take time to make sure you have everything set up and take a short break. Afterwards, we will go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md)
