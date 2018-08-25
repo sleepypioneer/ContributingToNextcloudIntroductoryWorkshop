@@ -28,6 +28,9 @@ This will open the Dev Tools (for this demo we are using [Chrome](https://www.go
 
 # Picking your first issue
 
+You can filter out issues by using the labels on github.
+There are two important labels which are `help wanted` and `good first issue`. But you can also find other issues related to other specifications like `design` for example.
+
 <img src="https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/images/goodfiratissues.png" alt="drawing" width="400"/>
 
 * Labels
