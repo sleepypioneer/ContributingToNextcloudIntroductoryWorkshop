@@ -60,6 +60,8 @@ On IRC you can connect to other contributors and ask questions. You can also hel
 
 There are a few chat tools you can use we reccomend [Riot](https://about.riot.im/)
 
+You'll need to register your username first in order to use our channels. You can find instructions here:  https://gist.github.com/fstab/ce805d3001600ac147b79d413668770d
+
 You can then access the Nextcloud developers room through this link:
 https://riot.im/app/#/room/#freenode_#nextcloud-dev:matrix.org
 
