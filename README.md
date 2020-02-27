@@ -29,7 +29,7 @@ With so many ways to get involved, what are you waiting for :smile:
 
 ### Ways to contribute to Nextcloud
 * [Develop your own App](https://docs.nextcloud.com/server/14/developer_manual/app/)
-* Improve existing Nextcloud code *(if your new to software development, good first issues are a good place to start)*
+* Improve existing Nextcloud code *(if you're new to software development, good first issues are a good place to start)*
 * [Review new code](https://nextcloud.com/blog/get-involved-in-nextcloud-by-reviewing-pulls/)
 * Help with translations
 * Help with the Design *(go to the [design page](https://nextcloud.com/contribute/design/))*
@@ -38,7 +38,7 @@ With so many ways to get involved, what are you waiting for :smile:
 
 You can show publically on your Github account that you contribute to Nextcloud by setting yourself as public in the [GitHub organization](https://github.com/orgs/nextcloud/people)
 
-For more details about contirbuting to Nextcloud visit : https://nextcloud.com/contribute/
+For more details about contributing to Nextcloud visit : https://nextcloud.com/contribute/
 
 ***
 [Back to Top](#top) 
@@ -80,7 +80,7 @@ Alternatively you can use the Github Desktop GUI which you can download [here](h
 ### :gem: IDE / Text Editor
 
 To work on the code base you will need a IDE or Text Editor. 
-Here the choice is completely yours and it is a personal preference which you find best to work with. However we can highly recommend  Visual Studio Code below are also some others you may like to try (they are all free)
+Here the choice is completely yours and it is a personal preference which you find best to work with. However, we can highly recommend Visual Studio Code. Below are also some others you may like to try (they are all free).
 
 <a name="docs"></a>
 ### :blue_book: Nextcloud Documentation
@@ -101,7 +101,7 @@ For this workshop we reccomend working with Docker so please follow the official
 
 :whale: https://www.docker.com/get-started :whale:
 
-We will take time to go through these guides with you shortly as each set up can be a little different and challenging. (we've all been there at some point :wink: )
+We will take time to go through these guides with you shortly as each set up can be a little different and challenging. (We've all been there at some point :wink: .)
 
 * [Mac](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/jessica/setupGuides/NextcloudMacDevelopmentEnvironment.md)
 * [Linux (with Docker)](https://github.com/David-Development/nextcloud-dev-docker/blob/master/README.md)
@@ -114,7 +114,7 @@ Big thanks to @jancborchardt & @David-Development for their support in creating 
 [Back to Top](#top) 
 
 
-If you didn't follow the Docker guide you will still need to get the code, here is a quick guide to doing so with Github either in the Terminal or through github Desktop
+If you didn't follow the Docker guide you will still need to get the code, here is a quick guide to doing so with Github either in the Terminal or through github Desktop.
 
 ## :1234: Through the Terminal
 
@@ -138,7 +138,7 @@ On your local clone, you will need to create a new branch to start adding your m
 
 `git checkout master`
 
-and then create a new branch based on the one we just selected
+and then create a new branch based on the one we just selected.
 
 `git checkout -B your-branch-name`
 
@@ -170,4 +170,4 @@ You can add a commit message and push your commit to the chosen branch.
 [Back to Top](#top) 
 
 
-:apple: Now we will take time to make sure you have everything set up and take a short break. Afterwards, we will go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md)
+:apple: Now we will take time to make sure you have everything set up and take a short break. Afterwards, we will go to [part 2](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partII.md).
