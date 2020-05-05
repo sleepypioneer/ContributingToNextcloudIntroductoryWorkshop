@@ -44,5 +44,5 @@ https://github.com/nextcloud/contacts/issues/253
 ***
 [Back to Top](#top) 
 
-We will now get in small groups and decide on issues to start on. [We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/PartIII.md)
+We will now get in small groups and decide on issues to start on. [We will then talk next steps and extra resources.](https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop/blob/master/partIII.md)
 
